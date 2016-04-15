@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Solar System Saga
-datePublished: '2016-04-15T11:14:50.345Z'
-dateModified: '2016-04-15T11:14:45.475Z'
-title: ''
+datePublished: '2016-04-15T11:18:24.714Z'
+dateModified: '2016-04-15T11:17:07.300Z'
+title: The Details
 author: []
+sourcePath: _posts/2016-04-15-solar-system-saga.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-solar-system-saga.md
-published: true
 url: solar-system-saga/index.html
 _type: Article
 
